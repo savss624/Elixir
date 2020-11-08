@@ -43,9 +43,10 @@ class _AboutPageState extends State<AboutPage> {
   // void setData()async{
   //   final prefs = await SharedPreferences.getInstance();
   //   email = prefs.getString('email');
-  //   String result = email.substring(0, email.indexOf('@'));
+  //   String result = email.substring(0, email.indexOf('@'))
   //   email = result;
   // }
+  //did some changes
   void initState() {
     origEmail = currentUser;
     email = currentUser.substring(0, currentUser.indexOf('@'));
