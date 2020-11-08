@@ -70,25 +70,25 @@ Features
 Easy Sign up and Login with your email and password - powered by Google Realtime Firebase.
  
 
-Takes Ur present location and searches and gives u a list of all nearby hospitals
+Takes Ur present location and searches and gives u a list of all nearby hospitals.
 
 
-3. Have one on one encrypted chat system for communication
+3. Have one on one encrypted chat system for communication.
 
 
-4. Have a feed section for people to share recovery stories and give motivation to everyone
+4. Have a feed section for people to share recovery stories and give motivation to everyone.
 
 
-5. Video calling feature available in one on one chat
+5. Video calling feature available in one on one chat.
  
 
-6. Common discussion forum available
+6. Common discussion forum available.
 
 
-7. AI chatbot that speaks to you when u ask them basic questions about medical terms and general info
+7. AI chatbot that speaks to you when u ask them basic questions about medical terms and general info.
 
 
-8. Language translation
+8. Language translation.
  
 
 Developers :-
