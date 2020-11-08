@@ -11,7 +11,7 @@ import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'Chat123.dart';
 import 'dart:ui' as ui;
-
+//main dart file
 Future<void> main() async {
   RenderErrorBox.backgroundColor = Colors.white;
   RenderErrorBox.textStyle = ui.TextStyle(color: Colors.white);
