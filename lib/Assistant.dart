@@ -32,7 +32,7 @@ class _AssistantPageState extends State<AssistantPage> {
   WatsonAssistantV2Credential credential = WatsonAssistantV2Credential(
     version: '2019-02-28',
     username: 'apikey',
-    apikey: '---',
+    apikey: 'BoAhawDWYJXFkK8oEcxaPjTGU-UpVO_tHB2IXzJiqC6_',
     assistantID: 'c651ffe6-41ca-49d4-bf95-fd78da397be7',
     url: 'https://api.kr-seo.assistant.watson.cloud.ibm.com/instances/249a6829-1928-46a0-813e-a31e0aef9f74/v2',
   );
